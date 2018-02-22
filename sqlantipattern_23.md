@@ -6,7 +6,7 @@
 
 
 
--> Author: Hidetatsu Yaginuma <-
+-> Hidetatsu Yaginuma <-
 
 ---
 
